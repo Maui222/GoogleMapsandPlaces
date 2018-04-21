@@ -9,7 +9,7 @@
 ## screenshot:
 ---
 1. Main Screen with my current location.
-![1 main scrin](https://user-images.githubusercontent.com/38472380/39087877-84b39642-45c9-11e8-8c94-f5da64edd0c2.png)
+![1 main scrin](https://user-images.githubusercontent.com/38472380/39087877-84b39642-45c9-11e8-8c94-f5da64edd0c2.png height="24px" width="48px")
 2. Search and Auto suggestion
 3. Details information about place
 4. Show my nearby places
