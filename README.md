@@ -11,7 +11,24 @@
 1. Main Screen with my current location.
 ---
 ![](photo/1.main%20scrin.png)
+---
 2. Search and Auto suggestion
+---
+![](photo/2search&suggassion.png)
+---
 3. Details information about place
-4. Show my nearby places
-5. Details about nearby places
+---
+![](photo/3.placeDetails.png)
+---
+4. Details nearby places
+---
+![](photo/4.details_nearby_place.png)
+---
+5. Nearby places
+---
+![](photo/5.nearby_place.png)
+---
+6. Nearby Details
+---
+![](photo/6.nearby_details.png)
+
