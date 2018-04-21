@@ -14,7 +14,7 @@
 ---
 2. Search and Auto suggestion
 ---
-![](photo/2search&suggassion.png" width="252" height="448")
+<img src="photo/2search&suggassion.png" width="252" height="448">
 ---
 3. Details information about place
 ---
