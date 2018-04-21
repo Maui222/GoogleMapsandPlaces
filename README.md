@@ -10,6 +10,7 @@
 ---
 ## 1. Main Screen with my current location.
 <img src="photo/1.main%20scrin.png">
+---
 ## 2. Search and Auto suggestion
 <img src="photo/2search&suggassion.png" width="252" height="448">
 ## 3. Details information about place
