@@ -9,6 +9,7 @@
 ## screenshot:
 ---
 1. Main Screen with my current location.
+---
 ![](photo/1.main%20scrin.png)
 2. Search and Auto suggestion
 3. Details information about place
