@@ -8,7 +8,7 @@
 
 ## screenshot:
 ---
-##1. Main Screen with my current location.
+## 1. Main Screen with my current location.
 <img src="photo/1.main%20scrin.png">
 
 ##2. Search and Auto suggestion
