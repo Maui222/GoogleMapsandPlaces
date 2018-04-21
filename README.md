@@ -8,4 +8,8 @@
 
 ## screenshot:
 ---
-Main Screen with my
+1. Main Screen with my current location.
+2. Search and Auto suggestion
+3. Details information about place
+4. Show my nearby places
+5. Details about nearby places
