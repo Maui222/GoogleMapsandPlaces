@@ -17,15 +17,12 @@
 ## 3. Details information about place
 <img src="photo/3.placeDetails.png" width="252" height="448">
 
-4. Details nearby places
----
+## 4. Details nearby places
 <img src="photo/4.details_nearby_place.png" width="252" height="448">
----
-5. Nearby places
----
+
+## 5. Nearby places
 <img src="photo/5.nearby_place.png" width="252" height="448">
----
-6. Nearby Details
----
+
+##6. Nearby Details
 <img src="photo/6.nearby_details.png" width="252" height="448">
 
