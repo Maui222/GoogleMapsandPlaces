@@ -18,17 +18,17 @@
 ---
 3. Details information about place
 ---
-![](photo/3.placeDetails.png)
+<img src="photo/3.placeDetails.png" width="252" height="448">
 ---
 4. Details nearby places
 ---
-![](photo/4.details_nearby_place.png)
+<img src="photo/4.details_nearby_place.png" width="252" height="448">
 ---
 5. Nearby places
 ---
-![](photo/5.nearby_place.png)
+<img src="photo/5.nearby_place.png" width="252" height="448">
 ---
 6. Nearby Details
 ---
-![](photo/6.nearby_details.png)
+<img src="photo/6.nearby_details.png" width="252" height="448">
 
