@@ -12,12 +12,11 @@
 <img src="photo/1.main%20scrin.png">
 
 ## 2. Search and Auto suggestion
----
 <img src="photo/2search&suggassion.png" width="252" height="448">
+
 ## 3. Details information about place
----
 <img src="photo/3.placeDetails.png" width="252" height="448">
----
+
 4. Details nearby places
 ---
 <img src="photo/4.details_nearby_place.png" width="252" height="448">
