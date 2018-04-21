@@ -7,3 +7,5 @@
   4. Find nearby flaces in map
 
 ## screenshot:
+---
+Main Screen with my
