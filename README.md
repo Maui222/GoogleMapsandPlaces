@@ -1,6 +1,6 @@
 # GoogleMapsandPlaces
 ## Location based android application project. 
-feature:
+## Feature:
   1. Show my current location
   2. Search location and auto-suggestion
   3. Display more information about places with a single click
