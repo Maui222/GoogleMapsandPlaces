@@ -23,6 +23,6 @@
 ## 5. Nearby places
 <img src="photo/5.nearby_place.png" width="252" height="448">
 
-##6. Nearby Details
+## 6. Nearby Details
 <img src="photo/6.nearby_details.png" width="252" height="448">
 
