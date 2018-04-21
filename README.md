@@ -6,7 +6,7 @@
   3. Display more information about places with a single click
   4. Find nearby flaces in map
 
-## screenshot:
+## Screenshot:
 ---
 ## 1. Main Screen with my current location.
 <img src="photo/1.main%20scrin.png">
